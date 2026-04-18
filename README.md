@@ -13,12 +13,6 @@ This repository is organized as follows:
 - `src`: contains the Earth Engine source code
 - `data/output`: contains the experiment outputs
 
-## Usage
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/GSansigolo/gee-image-mosaic-script.git
-```
 ## Prerequisites
 * A registered [Google Earth Engine](https://earthengine.google.com/) account.
 * If using Python: `pip install earthengine-api geemap`
